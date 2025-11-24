@@ -1,1 +1,12 @@
+#user code 
+auth = {{PROXY}//{ISABELLA_KEY}}
 
+#=============
+# lubabi
+#=============
+
+allowed = ["revita", "fakedevs", "vinda"]
+blacklist = ["kiinan"] # and all user assosiated with
+
+sync = {["Decepticon.rc", "Gabriella.rc", "oi"]}
+v = "0.0.2 beta"
