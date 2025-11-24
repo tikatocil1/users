@@ -1,13 +1,7 @@
-# user code 
-{"auth" : {["PROXY", "ISABELLA_KEY"]}}
+{
+  "allowed": ["user1", "user2", "user3"],
+  "blacklist": ["kiinan"],
+  "sync": ["Decepticon.rc", "Gabriella.rc", "oi"],
+  "v": "0.0.2 beta"
+}
 
-#=============
-# lubabi
-#=============
-
-{ "allowed": ["user1", "user2", "user3"] }
-
-{"blacklist" : ["kiinan"]} # and all user assosiated with
-
-{"sync" : ["Decepticon.rc", "Gabriella.rc", "oi"]}
-{"v" : "0.0.2 beta"}
