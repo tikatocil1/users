@@ -1,5 +1,5 @@
 #user code 
-auth = {{PROXY}//{ISABELLA_KEY}}
+{"auth" : {[PROXY}//ISABELLA_KEY]}}
 
 #=============
 # lubabi
@@ -7,7 +7,7 @@ auth = {{PROXY}//{ISABELLA_KEY}}
 
 { "allowed": ["user1", "user2", "user3"] }
 
-{"blacklist" = ["kiinan"]} # and all user assosiated with
+{"blacklist" : ["kiinan"]} # and all user assosiated with
 
-{"sync" = ["Decepticon.rc", "Gabriella.rc", "oi"]}
-{"v" = "0.0.2 beta"}
+{"sync" : ["Decepticon.rc", "Gabriella.rc", "oi"]}
+{"v" : "0.0.2 beta"}
