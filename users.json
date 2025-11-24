@@ -1,5 +1,5 @@
-#user code 
-{"auth" : {[PROXY//ISABELLA_KEY]}}
+# user code 
+{"auth" : {["PROXY", "ISABELLA_KEY"]}}
 
 #=============
 # lubabi
